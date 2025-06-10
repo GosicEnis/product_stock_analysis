@@ -12,8 +12,8 @@ This Python script analyzes product sales data, including:
 
 ## Technologies Used
 
-- Python 3
+- Python
 
 ## Author
 
-Enis Gosić – student at ITAcademy, learning Python and developing practical coding skills.
+Enis Gosić
